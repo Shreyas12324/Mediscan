@@ -1,0 +1,8 @@
+streamlit
+requests
+pandas
+flask
+numpy
+opencv-python
+scikit-learn
+joblib

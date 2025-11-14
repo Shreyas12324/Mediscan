@@ -1,4 +1,20 @@
-__pycache__/ 
-.vscode/ 
-*.log 
-dataset/ 
+# Environments
+mediscan_env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+dataset/
+archive (1)/
+
+# Models
+*.pkl
+
+# Miscellaneous
+New Text Document.txt
+Shreyas_Chaudhary_svm_model_training_screenshots/
